@@ -11,4 +11,4 @@ jak coś nie działa pisz Discord: <b>upik_</b>
 4. Gotowe.
 
 # Config.lua
-<img width="500" src="https://github.com/Upikk/Upikk_Duels/assets/96323919/a0132062-7898-4a8f-b5dd-68dc4ab200c3">
+![image](https://github.com/Upikk/Upikk_Duels/assets/96323919/4ecf3daf-3b7b-4018-9eb8-1c8044509c2e)
