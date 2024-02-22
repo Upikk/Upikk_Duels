@@ -7,7 +7,7 @@ local wait = 50
 RegisterNetEvent("upikk_duel:ShowAcceptMenu")
 AddEventHandler("upikk_duel:ShowAcceptMenu", function(name, id)
 	ESX.UI.Menu.Open(
-		'default', GetCurrentResourceName(), 'report_rate',
+		'default', GetCurrentResourceName(), 'duels_menu',
 		{
 			title    = 'Gracz ' .. name .. " wysłał ci prośbę o Duela",
 			align    = 'center',
